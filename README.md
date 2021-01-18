@@ -1,2 +1,2 @@
 # natours
-It's fictional landing page for company that offers tours in nature. Created by studying "Advanced CSS and Sass" course from Jonas Schmedtmann on Udemy platform.
+It's fictional landing page for company that offers tours in nature. Created by studying "Advanced CSS and Sass" course from Jonas Schmedtmann on Udemy platform. Project don't include flexbox or modern GRID layout. Link to see it live: https://alexzemz.github.io/natours/.
